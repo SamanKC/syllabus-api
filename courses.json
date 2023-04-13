@@ -1,0 +1,17 @@
+{
+  "courses": [
+    {
+      "name": "Python",
+      "file": "python.json"
+    },
+    {
+      "name": "Flutter",
+      "file": "flutter.json"
+    },
+    {
+      "name": "Java",
+      "file": "java.json"
+    },
+    // Add additional courses here...
+  ]
+}
